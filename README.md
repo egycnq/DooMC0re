@@ -5,7 +5,7 @@
 DOOM running as native x86_64 shellcode on PS5 through the
 [LuaC0re](https://github.com/Gezine/Luac0re) JIT exploit.
 
-Built on my **EmuC0re** — full homebrew apps built and run from PS5 userland,
+Built on my [EmuC0re](https://github.com/egycnq/EmuC0re) — full homebrew apps built and run from PS5 userland,
 no kernel exploit needed.
 
 The engine is [doomgeneric](https://github.com/ozkl/doomgeneric), the
@@ -166,3 +166,8 @@ GPL-2.0-or-later only: `dg_main.c`, `dg_platform.c`, `dg_sound.c`,
 `dg_musicmod.c`, `dg_music.c` and the OPL synth (`dg_opl.c`, `dg_opl.h`,
 `dg_opl_tables.h`). Everything else outside `src/doomgeneric/` is dual
 licensed. Anything built from this tree as a whole is GPL regardless.
+
+
+## Disclaimer
+
+For research and educational purposes only. Use at your own risk.
