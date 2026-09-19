@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
 * text=auto
+*.wad binary
+*.elf binary
+*.png binary
+*.lua text eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.ld text eol=lf
+Makefile text eol=lf

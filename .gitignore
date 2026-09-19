@@ -1,0 +1,22 @@
+# build output
+*.o
+*.d
+.buildflags
+doom.elf
+doom.lua
+doom_code.bin
+doom_data.bin
+doom_relocs.bin
+
+# host-side test tools, kept local
+tools/
+*.exe
+*.wav
+
+# game data is not distributed
+wads/*.wad
+
+# local scratch: logs, captures, old scripts
+dummy/
+*.log
+__pycache__/
