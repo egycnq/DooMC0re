@@ -166,3 +166,8 @@ GPL-2.0-or-later only: `dg_main.c`, `dg_platform.c`, `dg_sound.c`,
 `dg_musicmod.c`, `dg_music.c` and the OPL synth (`dg_opl.c`, `dg_opl.h`,
 `dg_opl_tables.h`). Everything else outside `src/doomgeneric/` is dual
 licensed. Anything built from this tree as a whole is GPL regardless.
+
+
+## Disclaimer
+
+For research and educational purposes only. Use at your own risk.
