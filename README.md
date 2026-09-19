@@ -5,7 +5,7 @@
 DOOM running as native x86_64 shellcode on PS5 through the
 [LuaC0re](https://github.com/Gezine/Luac0re) JIT exploit.
 
-Built on my **EmuC0re** — full homebrew apps built and run from PS5 userland,
+Built on my [EmuC0re](https://github.com/egycnq/EmuC0re) — full homebrew apps built and run from PS5 userland,
 no kernel exploit needed.
 
 The engine is [doomgeneric](https://github.com/ozkl/doomgeneric), the
