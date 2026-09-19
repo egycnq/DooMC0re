@@ -3,7 +3,6 @@
 *.d
 .buildflags
 doom.elf
-doom.lua
 doom_code.bin
 doom_data.bin
 doom_relocs.bin
